@@ -59,7 +59,7 @@
 
         //Recipients
         $mail->setFrom('webdevteste.teste@gmail.com', 'Web Teste Dev Remetente');
-        $mail->addAddress('luiseklug@outlook.com', 'Olá você, te amo muito');     // Add a recipient
+        $mail->addAddress('webdevteste.teste@gmail.com', 'Web Teste Dev Destinatátio');     // Add a recipient
         // $mail->addAddress('ellen@example.com');               // Name is optional
         // $mail->addReplyTo('info@example.com', 'Information');
         // $mail->addCC('cc@example.com');
